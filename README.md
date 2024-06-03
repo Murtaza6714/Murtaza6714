@@ -30,8 +30,8 @@ Welcome to my GitHub profile! I'm a passionate fullstack developer with 3 years 
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Murtaza6714&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Murtaza6714&layout=compact&theme=radical)
 
 ## 📫 Get in Touch
 
